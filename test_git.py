@@ -1,2 +1,1 @@
-print('Hello world for git. First version.')
-print('This is a second version for my Git.')
+print('This is a third version for my Git.')
